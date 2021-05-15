@@ -4,9 +4,9 @@
 import glob
 from pathlib import Path
 
-#files = glob.glob("/home/dd/org/Notes/*.org")
+files = glob.glob("/home/dd/org/Notes/*.org")
 #files = ["/home/dd/org/Notes/dey21_dna_origam.org"]
-files = ["/home/dd/org/Notes/test.org", "/home/dd/org/Notes/nanotech.org"]
+#files = ["/home/dd/org/Notes/test.org", "/home/dd/org/Notes/nanotech.org"]
 
 
 print(files)
@@ -26,7 +26,7 @@ rule org2md
     
     for f in files:
         path = Path(f)
-        output_file = f"content/posts/{path.with_suffix('.md').name}"
+        output_file = f"/home/dd/org/braindump/content/posts/{path.with_suffix('.md').name}"
         print(f"STREETLIHTS: {output_file}  \n PATH: {path}")
         ninja_file.write(f"""
 build {output_file}: org2md {path}
