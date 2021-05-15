@@ -1,0 +1,16 @@
++++
+title = "Nanotech"
+author = ["Durham Smith"]
+draft = false
++++
+
+tags
+: [test]({{< relref "test" >}})
+
+keywords
+:
+
+
+## Nanotech {#nanotech}
+
+[Test link]({{< relref "test" >}})
