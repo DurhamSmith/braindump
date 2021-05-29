@@ -1,10 +1,10 @@
 +++
 title = "small"
-author = ["Durham Smith"]
+author = ["John Doe"]
 draft = false
 +++
 
-## small <code>[24/141]</code> {#small}
+## small <code>[24/140]</code> {#small}
 
 
 ### Information {#information}
@@ -41,35 +41,33 @@ Entered on <span class="timestamp-wrapper"><span class="timestamp">[2021-04-20 T
 
     <!--list-separator-->
 
-    - <span class="org-todo todo TODO">TODO</span>  Maybe list all approaches to DNA nanotechnology or choose which to use
+    - <span class="org-todo todo HOLD">HOLD</span>  Maybe list all approaches to DNA nanotechnology or choose which to use
 
         Tile, brick, lattice, wireframe,
-        <sup id="edded4c96818b540a28e1077626bb6f3"><a href="#dey21_dna_origam" title="Swarup Dey, Chunhai Fan, Kurt Gothelf, , Jiang Li, Chenxiang Lin, Longfei Liu, Na, Liu, Minke Nijenhuis, Barbara Sacc\`a, , Friedrich Simmel, Hao Yan, Pengfei \&amp; Zhan, Dna Origami, {Nature Reviews Methods Primers}, v(1), 13 (2021).">dey21_dna_origam</a></sup>
+        cite:dey21\_dna\_origam
 
     <!--list-separator-->
 
     - <span class="org-todo done DONE">DONE</span>  Look for other SOA in size papers
 
-        [dey21\_dna\_origam: Dna Origami]({{< relref "dey21_dna_origam" >}})
-
     <!--list-separator-->
 
     - <span class="org-todo todo HOLD">HOLD</span>  Look for other SOA in number of components papers
 
-        <sup id="edded4c96818b540a28e1077626bb6f3"><a href="#dey21_dna_origam" title="Swarup Dey, Chunhai Fan, Kurt Gothelf, , Jiang Li, Chenxiang Lin, Longfei Liu, Na, Liu, Minke Nijenhuis, Barbara Sacc\`a, , Friedrich Simmel, Hao Yan, Pengfei \&amp; Zhan, Dna Origami, {Nature Reviews Methods Primers}, v(1), 13 (2021).">dey21_dna_origam</a></sup>
+        cite:dey21\_dna\_origam
 
     <!--list-separator-->
 
     - <span class="org-todo todo HOLD">HOLD</span>  Look for review paper that gives current shapes and structures
 
-        <sup id="edded4c96818b540a28e1077626bb6f3"><a href="#dey21_dna_origam" title="Swarup Dey, Chunhai Fan, Kurt Gothelf, , Jiang Li, Chenxiang Lin, Longfei Liu, Na, Liu, Minke Nijenhuis, Barbara Sacc\`a, , Friedrich Simmel, Hao Yan, Pengfei \&amp; Zhan, Dna Origami, {Nature Reviews Methods Primers}, v(1), 13 (2021).">dey21_dna_origam</a></sup>
+        cite:dey21\_dna\_origam
 
     <!--list-separator-->
 
     - <span class="org-todo done DONE">DONE</span>  Look for review paper that gives modifications
 
-        <sup id="edded4c96818b540a28e1077626bb6f3"><a href="#dey21_dna_origam" title="Swarup Dey, Chunhai Fan, Kurt Gothelf, , Jiang Li, Chenxiang Lin, Longfei Liu, Na, Liu, Minke Nijenhuis, Barbara Sacc\`a, , Friedrich Simmel, Hao Yan, Pengfei \&amp; Zhan, Dna Origami, {Nature Reviews Methods Primers}, v(1), 13 (2021).">dey21_dna_origam</a></sup>
-        [dey21\_dna\_origam: Dna Origami]({{< relref "dey21_dna_origam" >}})
+        cite:dey21\_dna\_origam
+        [dey21\_dna\_origam: Dna Origami](dey21_dna_origam.md)
 
     <!--list-separator-->
 
@@ -77,7 +75,7 @@ Entered on <span class="timestamp-wrapper"><span class="timestamp">[2021-04-20 T
 
     <!--list-separator-->
 
-    - <span class="org-todo todo TODO">TODO</span>  Decide if I want say once we have looked at flaws of current CAD tools and then set out criteria to right them
+    - <span class="org-todo todo HOLD">HOLD</span>  Decide if I want say once we havel ooked at flaws of current CAD tools and then set out criteria to right them
 
     <!--list-separator-->
 
@@ -214,7 +212,7 @@ Entered on <span class="timestamp-wrapper"><span class="timestamp">[2021-04-20 T
 
             When trying to make a DNA structure first need to choose a CAD tool. Choices of a tool can be complex since there are many DNA CAD tools available with different feature sets. Also complicated what the structure is to be used for and the lifecyle of the design (section~\ref{sec:life-cycle}) widly different making a one size fits all recommendation difficult. For example if a  \textcolor{red}{TODO insert helix bundle type} \textcolor{red}{TODO insert shape} wireframe structure is needed to \textcolor{red}{TODO Insert example of wireframe uses and match these to the structure described} \textcolor{red}{TODO insert software} would be a good choice since in provides exactly that. If a large, complex structure built of DNA structures made of many substructures of different types is required a different tool would be required. In this section we introduce a method for classifying DNA CAD tools that can be talored to ones own needs.
 
-            We need a means of evaluating CAD software. Recently <sup id="edded4c96818b540a28e1077626bb6f3"><a href="#dey21_dna_origam" title="Swarup Dey, Chunhai Fan, Kurt Gothelf, , Jiang Li, Chenxiang Lin, Longfei Liu, Na, Liu, Minke Nijenhuis, Barbara Sacc\`a, , Friedrich Simmel, Hao Yan, Pengfei \&amp; Zhan, Dna Origami, {Nature Reviews Methods Primers}, v(1), 13 (2021).">dey21_dna_origam</a></sup> set out a means to classify by generation and set out a flow chart for choosing current generation of CAD tools. It suffers from the fact that,
+            We need a means of evaluating CAD software. Recently cite:dey21\_dna\_origam set out a means to classify by generation and set out a flow chart for choosing current generation of CAD tools. It suffers from the fact that,
 
             -   Classification scheme is imprecise, generational ranking seems almost arbitary and provides no real information
             -   Fig only relates to current DNA design tools, quickly becomes outdated
@@ -433,7 +431,7 @@ Entered on <span class="timestamp-wrapper"><span class="timestamp">[2021-04-20 T
         - <span class="org-todo done DONE">DONE</span>  Rewrite downsides/shortcomings section     :write:
 
             -   Use academic-phrases package
-            -   Intro (we will be covering disadvatages gui, ?scripting, top down, then speculation on the future field (see <sup id="edded4c96818b540a28e1077626bb6f3"><a href="#dey21_dna_origam" title="Swarup Dey, Chunhai Fan, Kurt Gothelf, , Jiang Li, Chenxiang Lin, Longfei Liu, Na, Liu, Minke Nijenhuis, Barbara Sacc\`a, , Friedrich Simmel, Hao Yan, Pengfei \&amp; Zhan, Dna Origami, {Nature Reviews Methods Primers}, v(1), 13 (2021).">dey21_dna_origam</a></sup>) and the general disadvantages of current CAD tool in implementing this future
+            -   Intro (we will be covering disadvatages gui, ?scripting, top down, then speculation on the future field (see cite:dey21\_dna\_origam) and the general disadvantages of current CAD tool in implementing this future
             -   Integrate downsides from CAD Tools classification by UI section
 
             <!--listend-->
@@ -567,7 +565,7 @@ Entered on <span class="timestamp-wrapper"><span class="timestamp">[2021-04-20 T
 
             <!--list-separator-->
 
-            - <span class="org-todo todo TODO">TODO</span>  Read <sup id="edded4c96818b540a28e1077626bb6f3"><a href="#dey21_dna_origam" title="Swarup Dey, Chunhai Fan, Kurt Gothelf, , Jiang Li, Chenxiang Lin, Longfei Liu, Na, Liu, Minke Nijenhuis, Barbara Sacc\`a, , Friedrich Simmel, Hao Yan, Pengfei \&amp; Zhan, Dna Origami, {Nature Reviews Methods Primers}, v(1), 13 (2021).">dey21_dna_origam</a></sup> and list speculation on future of field
+            - <span class="org-todo todo TODO">TODO</span>  Read cite:dey21\_dna\_origam and list speculation on future of field
 
     <!--list-separator-->
 
@@ -791,7 +789,7 @@ Entered on <span class="timestamp-wrapper"><span class="timestamp">[2021-04-20 T
 
     - <span class="org-todo done DONE">DONE</span>  Write Design Life-cycle section     :write:
 
-        Flow Chart (see <sup id="edded4c96818b540a28e1077626bb6f3"><a href="#dey21_dna_origam" title="Swarup Dey, Chunhai Fan, Kurt Gothelf, , Jiang Li, Chenxiang Lin, Longfei Liu, Na, Liu, Minke Nijenhuis, Barbara Sacc\`a, , Friedrich Simmel, Hao Yan, Pengfei \&amp; Zhan, Dna Origami, {Nature Reviews Methods Primers}, v(1), 13 (2021).">dey21_dna_origam</a></sup> flow chart for their origami life-cycle, make this more related to data/code):
+        Flow Chart (see cite:dey21\_dna\_origam flow chart for their origami life-cycle, make this more related to data/code):
 
         -   Enters at Choice of CAD tool
             -   This informs possible future uses
@@ -958,7 +956,7 @@ Entered on <span class="timestamp-wrapper"><span class="timestamp">[2021-04-20 T
 
             - <span class="org-todo todo TODO">TODO</span>  Check if there is a repository for nanoscale designs
 
-                <sup id="67b1bf3b161fa6a6b7fa6bff16044016"><a href="#yan_contruction" title="Xiliang Yan, Alexander Sedykh, Wenyi Wang, Bing Yan \&amp; Hao Zhu, Construction of a web-based nanomaterial database by big data curation and modeling friendly nanostructure annotations, {Nature Communications}, v(1), 2519 (2020).">yan_contruction</a></sup>
+                cite:yan\_contruction
 
             <!--list-separator-->
 
@@ -1225,10 +1223,22 @@ Entered on <span class="timestamp-wrapper"><span class="timestamp">[2021-04-20 T
 
     <!--list-separator-->
 
-    - <span class="org-todo todo NEXT">NEXT</span>  Find software to make video tutorials on topics ive learnt
+    -  NEXT Find software to make video tutorials on topics ive learnt
 
         <span class="timestamp-wrapper"><span class="timestamp">&lt;2021-04-26 Mon 20:00&gt;&#x2013;&lt;2021-04-26 Mon 21:00&gt;</span></span>
 
         :ACTIVATED: <span class="timestamp-wrapper"><span class="timestamp">[2021-04-26 Mon]</span></span>
 
         Entered on <span class="timestamp-wrapper"><span class="timestamp">[2021-04-21 Wed 09:55]</span></span>
+
+
+## Introduction {#introduction}
+
+
+## Unread article ive cited {#unread-article-ive-cited}
+
+[Complex Shapes Self-Assembled From Single-Stranded Dna Tiles]({{< relref "wei12_compl_shapes_self_assem_from" >}})
+[wang19\_compl\_wiref\_dna\_nanos\_from: Complex Wireframe Dna Nanostructures From Simple Building Blocks]({{< relref "wang19_compl_wiref_dna_nanos_from" >}})
+[jun19\_auton\_desig\_free\_form\_dna\_origam: Autonomously designed free-form 2d dna origami]({{< relref "jun19_auton_desig_free_form_dna_origam" >}})
+[Automated sequence design of 3d polyhedral wireframe dna origami with honeycomb edges]({{< relref "jun19_autom_sequen_desig_polyh_wiref" >}})
+[Automated sequence design of 2d wireframe dna origami with honeycomb edges]({{< relref "jun19_autom_sequen_desig_wiref_dna" >}})

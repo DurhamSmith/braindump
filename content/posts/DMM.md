@@ -1,6 +1,6 @@
 +++
 title = "DMM"
-author = ["Durham Smith"]
+author = ["John Doe"]
 draft = false
 +++
 
@@ -42,7 +42,7 @@ draft = false
 
 <!--list-separator-->
 
-- <span class="org-todo todo NEXT">NEXT</span>  Rizzuto, F. J., Trinh, T. & Sleiman, H. F. Molecular Printing with DNA Nanotechnology. Chem 6, 1560–1574 (2020).
+-  NEXT Rizzuto, F. J., Trinh, T. & Sleiman, H. F. Molecular Printing with DNA Nanotechnology. Chem 6, 1560–1574 (2020).
 
     This paper shows how DNA can guide nanoparticle assembly
 
@@ -131,7 +131,7 @@ draft = false
 
 - <span class="org-todo todo TODO">TODO</span>  Tikhomirov, G., Petersen, P. & Qian, L. Fractal assembly of micrometre‐scale DNA origami arrays with arbitrary patterns. Nature 552, 67–71 (2017).     :ATTACH:
 
-    <sup id="4f543bc934df964edb2e5bdad62769b4"><a href="#tikhomirov17_fract_assem_microm_scale_dna" title="Grigory Tikhomirov, Philip Petersen, Lulu \&amp; Qian, Fractal Assembly of Micrometre-Scale Dna Origami  Arrays With Arbitrary Patterns, {Nature}, v(7683), 67-71 (2017).">tikhomirov17_fract_assem_microm_scale_dna</a></sup>
+    cite:tikhomirov17\_fract\_assem\_microm\_scale\_dna
 
     <!--list-separator-->
 
@@ -274,7 +274,7 @@ Entered on <span class="timestamp-wrapper"><span class="timestamp">[2021-04-19 M
 ### Tasks {#tasks}
 
 
-#### <span class="org-todo todo NEXT">NEXT</span> Read through DMMs draft and make a list with time estimates of what needs to be done for this project {#read-through-dmms-draft-and-make-a-list-with-time-estimates-of-what-needs-to-be-done-for-this-project}
+#### NEXT Read through DMMs draft and make a list with time estimates of what needs to be done for this project {#next-read-through-dmms-draft-and-make-a-list-with-time-estimates-of-what-needs-to-be-done-for-this-project}
 
 DMM Project Draft
 Also see planning book you did this in last time.
@@ -328,7 +328,7 @@ DMM Project Draft
 
 <!--list-separator-->
 
-- <span class="org-todo todo NEXT">NEXT</span>  Look at these slides (2019-09-16 Lab Genetic Imprinting Shell designs.pptx) for cube designs and categorize what approach they could be applied to (suit/imprint/both)
+-  NEXT Look at these slides (2019-09-16 Lab Genetic Imprinting Shell designs.pptx) for cube designs and categorize what approach they could be applied to (suit/imprint/both)
 
 <!--list-separator-->
 
@@ -446,7 +446,7 @@ DMM Project Draft
 
                         <!--list-separator-->
 
-                        - <span class="org-todo todo NEXT">NEXT</span>  In small implement six squares with unique sequences (fig 4)
+                        -  NEXT In small implement six squares with unique sequences (fig 4)
 
                             Returns: Code for creating the six squares and their their unique extensions
                             Staple sequences ready for idt (concentration and quantity) as csv file.
@@ -1000,7 +1000,7 @@ DMM Project Draft
 
         <!--list-separator-->
 
-        - <span class="org-todo todo NEXT">NEXT</span>  Joannopoulos, J. D., Villeneuve, P. R. & Fan, S. Photonic crystals. Solid State Commun. 102, 165–173 (1997).
+        -  NEXT Joannopoulos, J. D., Villeneuve, P. R. & Fan, S. Photonic crystals. Solid State Commun. 102, 165–173 (1997).
 
             Ref giving finite photonic crystal (aim 3.2)
 
@@ -1028,7 +1028,7 @@ DMM Project Draft
 
         <!--list-separator-->
 
-        - <span class="org-todo todo NEXT">NEXT</span>  Look at all structures in figure 10 and categorize their defining features (lattice vectors)
+        -  NEXT Look at all structures in figure 10 and categorize their defining features (lattice vectors)
 
     <!--list-separator-->
 
@@ -1072,7 +1072,7 @@ DMM Project Draft
 
         <!--list-separator-->
 
-        - <span class="org-todo todo NEXT">NEXT</span>  Chung, K., Kim, R., Chang, T. & Shin, J. Optical effective media with independent control of permittivity and permeability based on conductive particles. Appl. Phys. Lett. 109, 021114 (2016).
+        -  NEXT Chung, K., Kim, R., Chang, T. & Shin, J. Optical effective media with independent control of permittivity and permeability based on conductive particles. Appl. Phys. Lett. 109, 021114 (2016).
 
         <!--list-separator-->
 
@@ -1168,7 +1168,7 @@ We will also test if it is possible to align color splitters that have matching 
 
         <!--list-separator-->
 
-        - <span class="org-todo todo NEXT">NEXT</span>  Gopinath, A. et al. Absolute and arbitrary orientation of single molecule shapes. (2018)
+        -  NEXT Gopinath, A. et al. Absolute and arbitrary orientation of single molecule shapes. (2018)
 
 <!--list-separator-->
 

@@ -4,7 +4,7 @@ title = "Durham's Braindump"
 theme = "cortex"
 
 [params]
-email = "jethrokuan95@gmail.com"
+email = "d@durhamsmith.org"
 footer = "Icon by Freepik. Built with ♥ with Org-mode and Hugo."
 
 [markup]
